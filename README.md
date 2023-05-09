@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rudam26
+- 👋 Hi, I’m Rudam
 - 👀 I’m interested in learning new programming languages and to know more about web and app development.
 - 🌱 I’m currently learning c/c++ language.
 - 💞️ I’m looking to collaborate on basic c++ programming related projects.
